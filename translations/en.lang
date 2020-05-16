@@ -1,0 +1,8 @@
+command.sidebar.add=The objective %arg% has been added to the personal scoreboard
+command.sidebar.disable=The personal scoreboard has been disabled
+command.sidebar.enable=The personal scoreboard has been enabled
+command.sidebar.list.empty=There are no objectives on the personal scoreboard
+command.sidebar.list.list=There are %list% objectives on the personal scoreboard:
+command.sidebar.remove=The objective %arg% has been removed from the personal scoreboard
+command.sidebar.title.get=The title of the personal scoreboard is set to '%arg%'
+command.sidebar.title.set=The title of the personal scoreboard has been set to '%arg%'

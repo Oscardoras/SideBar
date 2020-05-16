@@ -1,0 +1,8 @@
+command.sidebar.add=L'objectif %arg% a été ajouté au tableau de score personnel
+command.sidebar.disable=Le tableau de score personnel a été désactivé
+command.sidebar.enable=Le tableau de score personnel a été activé
+command.sidebar.list.empty=Il n'y a pas d'objectif sur le tableau de score personnel
+command.sidebar.list.list=Il y a %list% objectif(s) sur le tableau de score personnel :
+command.sidebar.remove=L'objectif %arg% a été suprimé du tableau de score personnel
+command.sidebar.title.get=Le titre du tableau de score personnel est défini sur "%arg%"
+command.sidebar.title.set=Le titre du tableau de score personnel a été défini sur "%arg%"
