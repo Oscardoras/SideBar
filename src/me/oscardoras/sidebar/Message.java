@@ -1,6 +1,6 @@
-package org.bukkitplugin.sidebar;
+package me.oscardoras.sidebar;
 
-import org.bukkitutils.io.TranslatableMessage;
+import me.oscardoras.spigotutils.io.TranslatableMessage;
 
 public class Message extends TranslatableMessage {
 	

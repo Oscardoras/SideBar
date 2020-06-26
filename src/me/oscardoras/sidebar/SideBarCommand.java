@@ -1,4 +1,4 @@
-package org.bukkitplugin.sidebar;
+package me.oscardoras.sidebar;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -8,13 +8,14 @@ import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.permissions.Permission;
 import org.bukkit.scoreboard.Objective;
-import org.bukkitutils.PlayerReloader.Type;
-import org.bukkitutils.command.v1_15_V1.Argument;
-import org.bukkitutils.command.v1_15_V1.CommandRegister;
-import org.bukkitutils.command.v1_15_V1.LiteralArgument;
-import org.bukkitutils.command.v1_15_V1.CommandRegister.CommandExecutorType;
-import org.bukkitutils.command.v1_15_V1.arguments.GreedyStringArgument;
-import org.bukkitutils.command.v1_15_V1.arguments.ScoreboardObjectiveArgument;
+
+import me.oscardoras.spigotutils.PlayerReloader.Type;
+import me.oscardoras.spigotutils.command.v1_16_1_V1.Argument;
+import me.oscardoras.spigotutils.command.v1_16_1_V1.CommandRegister;
+import me.oscardoras.spigotutils.command.v1_16_1_V1.LiteralArgument;
+import me.oscardoras.spigotutils.command.v1_16_1_V1.CommandRegister.CommandExecutorType;
+import me.oscardoras.spigotutils.command.v1_16_1_V1.arguments.GreedyStringArgument;
+import me.oscardoras.spigotutils.command.v1_16_1_V1.arguments.ScoreboardObjectiveArgument;
 
 public final class SideBarCommand {
 	private SideBarCommand() {}

@@ -1,4 +1,4 @@
-package org.bukkitplugin.sidebar;
+package me.oscardoras.sidebar;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,11 +12,12 @@ import org.bukkit.scoreboard.DisplaySlot;
 import org.bukkit.scoreboard.Objective;
 import org.bukkit.scoreboard.Score;
 import org.bukkit.scoreboard.Scoreboard;
-import org.bukkitutils.BukkitPlugin;
-import org.bukkitutils.PlayerReloader;
-import org.bukkitutils.PlayerReloader.PlayerReloaderRunnable;
-import org.bukkitutils.PlayerReloader.Type;
-import org.bukkitutils.io.ConfigurationFile;
+
+import me.oscardoras.spigotutils.BukkitPlugin;
+import me.oscardoras.spigotutils.PlayerReloader;
+import me.oscardoras.spigotutils.PlayerReloader.PlayerReloaderRunnable;
+import me.oscardoras.spigotutils.PlayerReloader.Type;
+import me.oscardoras.spigotutils.io.ConfigurationFile;
 
 public final class SideBarPlugin extends BukkitPlugin {
 	

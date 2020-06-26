@@ -1,4 +1,4 @@
-package org.bukkitplugin.sidebar;
+package me.oscardoras.sidebar;
 
 import java.util.ArrayList;
 import java.util.List;
